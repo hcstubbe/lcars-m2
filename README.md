@@ -1,6 +1,6 @@
 ![Version](https://img.shields.io/badge/Version-2.5.32-blue) ![Code Coverage (Python)](https://img.shields.io/badge/Code_Coverage_(Python)-67%25-yellow.svg)
 # LCARS-M2 <img src="man/figures/logo.png" align="right" width=160 height=160 alt="" />
-LCARS-M2 is a lightweight clinical data acquisition and management software for clinical research and other data-focused research projects. It is a [progressive web app](https://en.wikipedia.org/wiki/Progressive_web_app) and based on [python](https://www.python.org/)/[django](https://www.djangoproject.com/).
+LCARS-M2 is a lightweight clinical data acquisition and management software for clinical research and other data-focused research projects. It is a [progressive web app](https://en.wikipedia.org/wiki/Progressive_web_app) and based on [Python](https://www.python.org/)/[Django](https://www.djangoproject.com/).
 
 ### 🚀 The source code will be published here shortly. 🚀
 
