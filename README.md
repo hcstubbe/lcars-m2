@@ -7,7 +7,7 @@ LCARS-M2 is a lightweight clinical data acquisition and management software for 
 Please refer to the R based protoype (LCARS-C) [here](https://github.com/hcstubbe/lcarsc).
 
 ## User interface
-The following illustrates screenshots of a LCARS-M2 module.
+The following illustrates screenshots of an LCARS-M2 module for data collection and management.
 
 <br>
 
